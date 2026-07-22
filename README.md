@@ -20,9 +20,11 @@
 
 [![Gmail](https://img.shields.io/badge/masumaakhtermaryam%40gmail.com-0f172a?style=flat-square&logo=gmail&logoColor=22d3ee)](mailto:masumaakhtermaryam@gmail.com)
 &nbsp;·&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f172a?style=flat-square&logo=linkedin&logoColor=22d3ee)](https://www.linkedin.com/in/masuma-akhter-9603b2417/)
+&nbsp;·&nbsp;
 [![Facebook](https://img.shields.io/badge/Facebook-0f172a?style=flat-square&logo=facebook&logoColor=22d3ee)](https://www.facebook.com/masumaakhtermaryam)
 &nbsp;·&nbsp;
-[![YouTube](https://img.shields.io/badge/@maryamscoding-0f172a?style=flat-square&logo=youtube&logoColor=22d3ee)](https://www.youtube.com/c/@maryamscoding)
+[![YouTube](https://img.shields.io/badge/@maryamscoding-0f172a?style=flat-square&logo=youtube&logoColor=22d3ee)](https://www.youtube.com/@maryamscoding)
 &nbsp;·&nbsp;
 [![GitHub](https://img.shields.io/badge/maryam--dev26-0f172a?style=flat-square&logo=github&logoColor=22d3ee)](https://github.com/maryam-dev26)
 
