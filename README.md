@@ -20,7 +20,7 @@
 
 [![Gmail](https://img.shields.io/badge/masumaakhtermaryam%40gmail.com-0f172a?style=flat-square&logo=gmail&logoColor=22d3ee)](mailto:masumaakhtermaryam@gmail.com)
 &nbsp;·&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f172a?style=flat-square&logo=linkedin&logoColor=22d3ee)](https://www.linkedin.com/in/masuma-akhter-maryam-9603b2417/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f172a?style=flat-square&logo=linkedin&logoColor=22d3ee)](https://www.linkedin.com/in/masuma-akhter-maryam-9603b2417/)
 &nbsp;·&nbsp;
 [![Facebook](https://img.shields.io/badge/Facebook-0f172a?style=flat-square&logo=facebook&logoColor=22d3ee)](https://www.facebook.com/masumaakhtermaryam)
 &nbsp;·&nbsp;
